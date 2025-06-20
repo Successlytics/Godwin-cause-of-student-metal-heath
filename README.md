@@ -21,7 +21,8 @@
 
 ### STEPS:
 ---
--
+- PREPARE DATA
+- - CLEAN THE DATA 
     
  
   

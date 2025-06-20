@@ -18,6 +18,8 @@
  * Cause effect analysis
  - Data visualiztion
  * Solution suggention
+
+## STEPS
     
  
   

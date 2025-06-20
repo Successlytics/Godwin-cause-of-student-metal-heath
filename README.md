@@ -3,5 +3,5 @@
 ### PROJECT OVERVIEW
 **Objective**
 * This project is aimed to analyze the cause and the consequences of student mental health and to be able to drive out what can be done to eradicate ans improve thrie health rapidly
-**Scope**
+  *Scope*
 ## I am happy to be a part of todays data analyst by the grace of

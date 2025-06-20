@@ -14,9 +14,9 @@
 
  **Methodoogy**
  * **Data collection** *the collection of datta from*
- * Data cleaning:
+ * **Data cleaning**
  * Cause effect analysis
- . Data visualiztion
+ - Data visualiztion
  * Solution suggention
     
  

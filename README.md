@@ -9,4 +9,4 @@
 **Scope**
 ## I am happy to be a part of todays data analyst by the grace of
 * to derive the problems associated with the students mental health
-* making the decision how to go about the problem
++ making the decision how to go about the problem

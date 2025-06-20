@@ -2,7 +2,7 @@
 ---
 ### PROJECT OVERVIEW
 **Objective**
-This project is aimed to analyze the cause and the consequences of student mental health and to be able to drive out what can be done to eradicate ans improve thrie health rapidly
+*This project is aimed to analyze the cause and the consequences of student mental health and to be able to drive out what can be done to eradicate ans improve thrie health rapidly
 **Scope**
 
 # This repository highlight the cause of student mental health various departments

@@ -22,7 +22,8 @@
 ### STEPS:
 ---
 - PREPARE DATA
-- - CLEAN THE DATA 
+- - CLEAN THE DATA
+  - now
     
  
   
